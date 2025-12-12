@@ -1,48 +1,48 @@
+<h1 align="center">QuickRate</h1>
+<h3 align="center">💱 Lightweight Currency Converter | Fast. Simple. Browser-Based. 🌍</h3>
 
-# QuickRate
-QuickRate is a simple, browser-based tool that helps users quickly convert amounts between different currencies.
-It is designed for Anyone needing a lightweight currency converter without installing apps
+<p align="center">
+  <a href="#"><img src="https://img.shields.io/badge/Live-Demo-FF00FF?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
+  <img src="https://img.shields.io/badge/Frontend-HTML-F06529?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/Server-Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Type-Client Side App-000?style=for-the-badge" />
+</p>
 
-The project runs entirely in the browser and requires no backend or database—making it easy to use, modify, and deploy
+---
 
+## 🧠 What is QuickRate?
 
-## Tech Stack
+**QuickRate** is a **simple, fast, browser-based currency converter** that helps users instantly convert between multiple global currencies.
 
-**Frontend:** HTML
+It runs **entirely on the browser**, requiring **no backend**, **no database**, and **zero setup overhead** — making it extremely easy to use, modify, or deploy.
 
-**Server:** Node
+---
 
+## 🌟 Key Features
 
-## Run Locally
+- 🔁 **Instant Currency Conversion** – Converts any amount between selected currencies.  
+- 🌐 **Runs 100% on Browser** – No server or backend logic needed for the actual conversion.  
+- 📦 **Lightweight & Fast** – Clean interface with minimal code.  
+- 💻 **Easy to Deploy** – Can be hosted on Netlify, Vercel, or any static hosting provider.  
+- 🛠️ **Simple Codebase** – Perfect for beginners learning how converters work.
+
+---
+
+## 🛠️ Tech Stack
+
+| Category | Technologies |
+|-----------|-------------|
+| **Frontend** | HTML |
+| **Server (Local Only)** | Node.js (for serving files) |
+
+---
+
+## 🚀 Run Locally
 
 Clone the project
 
 ```bash
-  git clone https://github.com/Pawan-19012006/currency-converter.git
-```
-
-Go to the project directory
+git clone https://github.com/Pawan-19012006/currency-converter.git
 
 ```bash
-  cd currency_converter
-```
-
-Install dependencies
-
-```bash
-  npm install
-```
-
-Start the server
-
-```bash
-  npx serve
-```
-You should see a message like:
-
-http://localhost:3000
-
-Open this link in your browser to view the app.
-
-## Screenshots
-
+cd currency_converter
