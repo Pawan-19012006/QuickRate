@@ -39,10 +39,20 @@ It runs **entirely on the browser**, requiring **no backend**, **no database**, 
 
 ## 🚀 Run Locally
 
-Clone the project
-
 ```bash
+#Clone the project
 git clone https://github.com/Pawan-19012006/currency-converter.git
 
-```bash
+#Go to the project directory
 cd currency_converter
+
+#Install dependencies
+npm install
+
+#Start the local server
+npx serve
+
+#Once running, you should see something like:
+http://localhost:3000
+
+Open this link in your browser to view QuickRate.
