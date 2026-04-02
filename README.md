@@ -4,7 +4,6 @@
 <p align="center">
   <a href="#"><img src="https://img.shields.io/badge/Live-Demo-FF00FF?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
   <img src="https://img.shields.io/badge/Frontend-HTML-F06529?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/Server-Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white" />
   <img src="https://img.shields.io/badge/Type-Client Side App-000?style=for-the-badge" />
 </p>
 
@@ -33,7 +32,6 @@ It runs **entirely on the browser**, requiring **no backend**, **no database**, 
 | Category | Technologies |
 |-----------|-------------|
 | **Frontend** | HTML |
-| **Server (Local Only)** | Node.js (for serving files) |
 
 ---
 
